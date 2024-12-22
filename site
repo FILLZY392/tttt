@@ -1,0 +1,49 @@
+<html>
+
+    <body>
+        <header style="background:lightblue;"> <img src="https://i.pinimg.com/originals/0f/e9/67/0fe967a2eef4a3a93a05891fcbcd4015.jpg" height="35px" wigth="35px">
+        <a href="#portfolio" style="color:black; font size:20px;"> Портфолио </a>
+         <a href="#friends" style="color:black; font size:20px;"> Сотрудничество </a>
+          <a href="#application" style="color:black; font size:20px;"> Оставить заявку </a>
+        </header>
+        <main>
+        <h1>Game MRSD</h1>
+        <p>создание,сайтов,игр и тд</p>
+        <p>-</p>
+           <p>-</p>
+              <p>-</p>
+                 <p>-</p>
+                    <p>-</p>
+                       <p>-</p>
+                          <p>-</p>
+                             <p>-</p>
+                                <p>-</p>
+        <h2 id="portfolio"> Оставьте заявку </h2>
+            
+         <p>-</p>
+           <p>-</p>
+              <p>-</p>
+                 <p>-</p>
+                    <p>-</p>
+                       <p>-</p>
+                          <p>-</p>
+                             <p>-</p>
+                                <p>-</p>
+         
+         <h2 id="friends"> Наши портнеры </h2>
+         <h2 id="application"> Оставьте заявку </h2>
+<form style="background:green">
+        <p><label style="font-size:15px">Введите имя <p><input type="text"></label></p>
+        <p><label>Введите телефон<input type="tel"></label> </p>
+        <input type="email">
+        <input type="date">
+    <p> <label> <input type="checkbox"> Подключить рассылку</label> </p>
+    <input type="submit" value="Отправить">
+    </form>  
+        </main>
+        <footer style="background:lightblue;">
+         <h5> Сайт создан FILLZY </h5>
+         <h5> Адрес студии <a href="https://yandex.ru/profile/222386120470?no-distribution=1&view-state=mini&source=wizbiz_new_map_single">Мы на карте </a> </h5>
+        </footer>
+    </body>
+</html>
